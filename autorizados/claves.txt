@@ -1,0 +1,4 @@
+juan:$apr1$PXP7.Wik$MGRi8Xx/ZnRIKmauw1T5d1
+maria:$apr1$ihueNKS4$Q6kuev69P.Ew1Yeie11dL/
+luis:$apr1$lXtu/yyh$PSbxqdvGvyA0jZJEnqdRT.
+pepe:$apr1$k569kjmb$ESRpdDex4LC/xsA50rGpG.
